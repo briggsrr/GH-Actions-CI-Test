@@ -1,6 +1,6 @@
 # GH-Actions-CI-Test
 Created example for using googleTest as well as github actions continuous integration scripts
-![GTest](https://github.com/briggsrr/GH-Actions-CI-Test/actions/workflows/cmake.yml/badge.svg)
+![GTest](https://github.com/briggsrr/GH-Actions-CI-Test/actions/workflows/build-gtest.yml)
 
 Usage: 
 1) mkdir build
