@@ -10,8 +10,6 @@ set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 
 enable_testing()
 
-add_subdirectory(googletest)
-
 set(Headers
     Example.h
 )
@@ -23,3 +21,5 @@ add_library(${This} STATIC ${Sources} ${Headers})
 
 
 add_subdirectory(test)
+add_subdirectory(googletest)
+
