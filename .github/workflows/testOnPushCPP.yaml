@@ -20,7 +20,10 @@ jobs:
     - name: enter build
       run: cd build
 
-    - name: make all dependencies
+    - name: CMake Configuring
+      run: cmake ../
+
+    - name: Making all 
       run: make 
 
     - name: executing tests
