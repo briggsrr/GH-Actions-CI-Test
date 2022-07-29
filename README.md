@@ -1,4 +1,5 @@
 # GH-Actions-CI-Test
+Created example for using googleTest as well as github actions continuous integration scripts
 
 Usage: 
 1) mkdir build
