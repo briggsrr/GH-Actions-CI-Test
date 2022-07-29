@@ -21,7 +21,7 @@ jobs:
       run: cd build
 
     - name: CMake Configuring
-      run: cmake ../
+      run: cmake .
 
     - name: Making all 
       run: make 
