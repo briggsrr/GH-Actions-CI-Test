@@ -1,4 +1,4 @@
-name: CMake and GTest
+name: Build and GTest
 
 on:
   push:
