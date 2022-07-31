@@ -4,8 +4,6 @@ Created example for using googleTest as well as github actions continuous integr
 
 ![GTest](https://github.com/briggsrr/GH-Actions-CI-Test/actions/workflows/build-gtest.yml/badge.svg)
 
-<br></br>
-
 ![Configuration](https://github.com/briggsrr/GH-Actions-CI-Test/actions/workflows/configuration-test.yaml/badge.svg)
 
 Usage: 
